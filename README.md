@@ -2,7 +2,7 @@
 
 
 
-##Objetivo
+## Objetivo
 
 Este projeto acadêmico objetiva-se em criar uma empresa, partindo de sua estrutura organizacional até suas vertentes de mercado, público alvo, mercado de atuação, produtos desenvolvidos e marketing.
 
